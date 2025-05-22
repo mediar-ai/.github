@@ -1,7 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/40591520-8c5b-4b9b-8ad3-07675ba79bd0)
-
-![image](https://github.com/user-attachments/assets/d96aa5a4-108b-41f5-805c-88130cc40db6)
+![image](https://github.com/user-attachments/assets/a7197da8-e7cd-4458-bad7-8c2eff9a15c7)
 
 
 The Mediar Way:
@@ -14,7 +12,6 @@ The Mediar Way:
 **Meritocracy**: Ideas compete, innovators collaborate  
 **Survival**: Life above all else  
 
-We are accelerating civilization transition to post-scarcity paradise.
 
 
 [Help us](https://github.com/mediar-ai/screenpipe/blob/main/CONTRIBUTING.md) & drop a star.
