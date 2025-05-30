@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/a7197da8-e7cd-4458-bad7-8c2eff9a15c7)
+![image](https://github.com/user-attachments/assets/23f9ee84-05a7-48a3-b615-491313c82fb1)
 
 
 The Mediar Way:
