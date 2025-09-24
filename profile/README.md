@@ -1,6 +1,6 @@
 
-![image](https://github.com/user-attachments/assets/23f9ee84-05a7-48a3-b615-491313c82fb1)
 
+<img width="1344" height="768" alt="software3 (1)" src="https://github.com/user-attachments/assets/10c9bb99-933c-4e5d-965b-e13021eb6d5a" />
 
 The Mediar Way:
 
@@ -12,7 +12,5 @@ The Mediar Way:
 **Meritocracy**: Ideas compete, innovators collaborate  
 **Survival**: Life above all else  
 
-
-
-[Help us](https://github.com/mediar-ai/screenpipe/blob/main/CONTRIBUTING.md) & drop a star.
+[Help us](https://github.com/mediar-ai/terminator) & drop a star.
 
