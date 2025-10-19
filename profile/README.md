@@ -12,6 +12,8 @@ The Mediar Way:
 **Meritocracy**: Ideas compete, innovators collaborate  
 **Survival**: Life above all else  
 
+We free humans from digital prison.
+
 [Help us](https://github.com/mediar-ai/terminator) & drop a star.
 
 [Live with us](https://hyperbolic.garden/) in SF
