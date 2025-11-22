@@ -1,6 +1,6 @@
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/41c8fda3-2e3c-4dcd-8212-3cb2ae89d41d" />
 
-<img width="1344" height="768" alt="software3 (1)" src="https://github.com/user-attachments/assets/10c9bb99-933c-4e5d-965b-e13021eb6d5a" />
 
 The Mediar Way:
 
@@ -16,5 +16,5 @@ Freeing humans from repetitive data entry.
 
 [Help us](https://github.com/mediar-ai/terminator) & drop a star.
 
-[Live with us](https://hyperbolic.garden/) in SF
+[Live with us](https://hyperbolic.garden) in SF
 
