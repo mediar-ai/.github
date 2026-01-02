@@ -9,7 +9,7 @@ The Mediar Way:
 **Meritocracy**: Ideas compete, innovators collaborate  
 **Survival**: Life above all else  
 
-Freeing humans from repetitive data entry.
+Freeing humans from meaningless work.
 
 [Help us](https://github.com/mediar-ai/terminator) & drop a star.
 
